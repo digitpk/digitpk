@@ -5,9 +5,9 @@ We are a Company based in Pakistan Providing services related to IT services sin
 Here are some ideas to get you started:
 
 - 🔭 Currently working on Laravel, Flutter & Wordpress
-- 🌱 We are currently providing services 
+- 🌱 We are currently providing services related to IT services but not limited to above mention technologies.
 - 👯 We are looking to collaborate on where we both can win.
-- 🤔 I’m looking for help with Growth with like minded businesses
+- 🤔 We are looking for help with Growth with like minded businesses
 - 💬 Ask me about anything
 - 📫 info@digit.com.pk 
 - :telephone: skype: live:.cid.3bc2c4f5d6c55c7
