@@ -9,6 +9,6 @@ Here are some ideas to get you started:
 - 👯 We are looking to collaborate on where we both can win.
 - 🤔 We are looking for help with Growth with like minded businesses
 - 💬 Ask me about anything
-- 📫 info@digit.com.pk 
+- 📫 info@digit.com.pk | digitpakistan@outlook.com | digitpakistan@gmail.com
 - :telephone: skype: live:.cid.3bc2c4f5d6c55c7
 - ⚡ Fun fact: 100+ projects and counting...
