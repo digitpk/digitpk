@@ -6,13 +6,14 @@ Here are some ideas to get you started:
 
 # 💫About US :
 🔭 Currently working on Laravel & Flutter.
-🌱 We are currently providing services related to IT services but not limited to the above-mentioned technologies.
-👯 We are looking to collaborate on where we both can win.
-🤔 We are looking for help with Growth with like-minded businesses
-💬 Ask me about anything
-📫 info@digit.com.pk | digitpakistan@outlook.com | digitpakistan@gmail.com
-☎️ skype: live:.cid.3bc2c4f5d6c55c7
-⚡ Fun fact: 150+ projects and counting...
+- 🔭 Currently working on Laravel & Flutter.
+- 🌱 We are currently providing services related to IT services but not limited to above mention technologies.
+- 👯 We are looking to collaborate on where we both can win.
+- 🤔 We are looking for help with Growth with like minded businesses
+- 💬 Ask me about anything
+- 📫 info@digit.com.pk | digitpakistan@outlook.com | digitpakistan@gmail.com
+- :telephone: skype: live:.cid.3bc2c4f5d6c55c7
+- ⚡ Fun fact: 150+ projects and counting...
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://facebook.com/digit) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/digitpk) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/company/digitpk) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/digitpk) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/digitpk) 
