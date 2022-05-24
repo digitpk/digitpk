@@ -4,7 +4,7 @@ We are a Company based in Pakistan Providing services related to IT services sin
 
 Here are some ideas to get you started:
 
-# 💫About Me :
+# 💫About US :
 🔭 Currently working on Laravel & Flutter.
 🌱 We are currently providing services related to IT services but not limited to the above-mentioned technologies.
 👯 We are looking to collaborate on where we both can win.
