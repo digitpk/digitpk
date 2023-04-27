@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything
 - 📫 info@digit.com.pk | digitpakistan@outlook.com | digitpakistan@gmail.com
 - :telephone: skype: live:.cid.3bc2c4f5d6c55c7
-- ⚡ Fun fact: 150+ projects and counting...
+- ⚡ Fun fact: 200+ projects and counting...
 
 ## Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/digit) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/digitpk) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/company/digitpk) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/digitpk) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/digitpk) 
